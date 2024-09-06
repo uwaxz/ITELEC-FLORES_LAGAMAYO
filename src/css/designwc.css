@@ -1,0 +1,32 @@
+.welcome{
+    max-width: 600px;
+    height: 200px;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 70px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px; 
+    background-color: rgb(50, 50, 50); 
+    color:  rgb(41, 41, 41); 
+    background: transparent;
+    border-radius: 60px;
+    text-align: center;
+    top: 200px;
+    bottom: 500px;
+    position: relative;
+    font-size: 25px;
+}
+
+.form-group a {
+    color:  rgb(0, 0, 0); 
+    height: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.form-group button{
+    border-radius: 100px;
+    height: 50px;
+    width: 200px;
+    background-color: transparent;
+}
